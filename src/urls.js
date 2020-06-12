@@ -1,0 +1,1 @@
+export const urlPosts = 'https://5eb9c6ae3f97140016992067.mockapi.io/postsParcial1/'
